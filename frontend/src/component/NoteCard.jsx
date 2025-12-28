@@ -37,10 +37,6 @@ const NoteCard = ({ note,setNotes }) => {
                 </div>
 
             </div>
- 
-
-
-
         </div>
         
         
